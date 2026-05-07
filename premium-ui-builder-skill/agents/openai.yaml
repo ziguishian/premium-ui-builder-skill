@@ -1,0 +1,7 @@
+interface:
+  display_name: "Premium UI Builder"
+  short_description: "将模糊审美需求转成可执行 UI 方案（新项目/现有页面优化）"
+  default_prompt: "使用 premium-ui-builder-skill，为我输出可执行的页面设计或升级方案，并附可复制 Prompt。"
+
+policy:
+  allow_implicit_invocation: true
