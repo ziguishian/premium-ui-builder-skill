@@ -9,6 +9,8 @@
 
 **多语言 README**：中文 | [English](README.en-US.md) | [日本語](README.ja-JP.md) | [한국어](README.ko-KR.md)
 
+<img width="1915" height="821" alt="image" src="https://github.com/user-attachments/assets/23b7729e-ba80-45d1-b642-cf8f0328553e" />
+
 > Design before decoration.  
 > System before style.  
 > Implementation before vague aesthetics.
